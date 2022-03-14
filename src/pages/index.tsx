@@ -6,9 +6,7 @@ export default function Home() {
       <Head>
         <title>Início | CIBU$ Fidelidade</title>
       </Head>
-      <h1>
-        LAST DANCE <span>LAST DANCE LAST DANCE</span>
-      </h1>
+      <h1>Olá Mundo!</h1>
     </>
   );
 }
